@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Algebraic Topology]]></title>
-  <link href="http://siddhartha-gadgil.github.io/AlgebraicTopology/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Notes | Algebraic Topology]]></title>
+  <link href="http://siddhartha-gadgil.github.io/AlgebraicTopology/blog/categories/notes/atom.xml" rel="self"/>
   <link href="http://siddhartha-gadgil.github.io/AlgebraicTopology/"/>
   <updated>2014-07-07T11:52:18+05:30</updated>
   <id>http://siddhartha-gadgil.github.io/AlgebraicTopology/</id>
