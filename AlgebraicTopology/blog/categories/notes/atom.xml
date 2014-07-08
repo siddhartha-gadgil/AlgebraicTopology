@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Notes | Algebraic Topology]]></title>
   <link href="http://siddhartha-gadgil.github.io/AlgebraicTopology/blog/categories/notes/atom.xml" rel="self"/>
   <link href="http://siddhartha-gadgil.github.io/AlgebraicTopology/"/>
-  <updated>2014-07-08T09:08:29+05:30</updated>
+  <updated>2014-07-08T09:10:57+05:30</updated>
   <id>http://siddhartha-gadgil.github.io/AlgebraicTopology/</id>
   <author>
     <name><![CDATA[Siddhartha Gadgil]]></name>
@@ -66,6 +66,7 @@
 
 <p>Often simple algebraic arguments show that there is no solution to the algebraic, hence the topological, problem. For instance, if two spaces are homeomorphic, then their associated groups are isomorphic - and hence if we obtain different groups we can conclude that the given spaces are not homeomorphic.</p>
 
+<p>Change for the better?</p>
 ]]></content>
   </entry>
   
