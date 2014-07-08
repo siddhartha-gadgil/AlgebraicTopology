@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Algebraic Topology]]></title>
-  <link href="http://siddhartha-gadgil.github.io/AlgebraicTopology/atom.xml" rel="self"/>
-  <link href="http://siddhartha-gadgil.github.io/AlgebraicTopology/"/>
-  <updated>2014-07-08T08:58:31+05:30</updated>
-  <id>http://siddhartha-gadgil.github.io/AlgebraicTopology/</id>
+  <link href="http://siddhartha-gadgil.github.io//github/atom.xml" rel="self"/>
+  <link href="http://siddhartha-gadgil.github.io//github/"/>
+  <updated>2014-07-08T09:00:00+05:30</updated>
+  <id>http://siddhartha-gadgil.github.io//github/</id>
   <author>
     <name><![CDATA[Siddhartha Gadgil]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Topological Problems]]></title>
-    <link href="http://siddhartha-gadgil.github.io/AlgebraicTopology/blog/2014/07/06/topology-problems/"/>
+    <link href="http://siddhartha-gadgil.github.io//github/blog/2014/07/06/topology-problems/"/>
     <updated>2014-07-06T16:22:14+05:30</updated>
-    <id>http://siddhartha-gadgil.github.io/AlgebraicTopology/blog/2014/07/06/topology-problems</id>
+    <id>http://siddhartha-gadgil.github.io//github/blog/2014/07/06/topology-problems</id>
     <content type="html"><![CDATA[<p>We begin with a typical topology problem (or rather, collection of problems).</p>
 
 <h3 id="extension-problems">Extension problems:</h3>
