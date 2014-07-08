@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Algerbaic Topology Course]]></title>
+  <link href="http://siddhartha-gadgil.github.io/AlgebraicTopology/atom.xml" rel="self"/>
+  <link href="http://siddhartha-gadgil.github.io/AlgebraicTopology/"/>
+  <updated>2014-07-06T18:13:05+05:30</updated>
+  <id>http://siddhartha-gadgil.github.io/AlgebraicTopology/</id>
+  <author>
+    <name><![CDATA[Siddhartha Gadgil]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Topology Problems]]></title>
+    <link href="http://siddhartha-gadgil.github.io/AlgebraicTopology/blog/2014/07/06/topology-problems/"/>
+    <updated>2014-07-06T16:22:14+05:30</updated>
+    <id>http://siddhartha-gadgil.github.io/AlgebraicTopology/blog/2014/07/06/topology-problems</id>
+    <content type="html"><![CDATA[<p>Let us begin with a typical topology problem.</p>
+
+<h3>Extension problem:</h3>
+]]></content>
+  </entry>
+  
+</feed>
