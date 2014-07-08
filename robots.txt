@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://siddhartha-gadgil.github.io/AlgebraicTopology/sitemap.xml 
+Sitemap: http://siddhartha-gadgil.github.io//sitemap.xml 
