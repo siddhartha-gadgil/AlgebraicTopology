@@ -44,7 +44,9 @@ On the other hand, the above non-existence result could be done using point-set 
 
 ### What is algebraic topology?
 
-The idea of algebraic topology is to map a (first order) topological problem to an algebraic one, with spaces mapped to groups (or other algebraic objects) and continuous functions mapped to homomorphisms. We can generally conclude that if a topological existence problem has a solution, then so does the corresponding algebraic problem. Often simple algebraic arguments show that there is no solution to the algebraic, hence the topological, problem. 
+The idea of algebraic topology is to map a (first order) topological problem to an algebraic one, with spaces mapped to groups (or other algebraic objects) and continuous functions mapped to homomorphisms. We can generally conclude that if a topological existence problem has a solution, then so does the corresponding algebraic problem. 
+
+Often simple algebraic arguments show that there is no solution to the algebraic, hence the topological, problem. For instance, if two spaces are homeomorphic, then their associated groups are isomorphic - and hence if we obtain different groups we can conclude that the given spaces are not homeomorphic.
 
 
 
