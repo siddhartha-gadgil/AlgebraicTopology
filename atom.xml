@@ -4,7 +4,7 @@
   <title><![CDATA[Algebraic Topology]]></title>
   <link href="http://siddhartha-gadgil.github.io/AlgebraicTopology/atom.xml" rel="self"/>
   <link href="http://siddhartha-gadgil.github.io/AlgebraicTopology/"/>
-  <updated>2014-07-08T08:43:50+05:30</updated>
+  <updated>2014-07-08T08:52:47+05:30</updated>
   <id>http://siddhartha-gadgil.github.io/AlgebraicTopology/</id>
   <author>
     <name><![CDATA[Siddhartha Gadgil]]></name>
@@ -62,7 +62,9 @@
 
 <h3 id="what-is-algebraic-topology">What is algebraic topology?</h3>
 
-<p>The idea of algebraic topology is to map a (first order) topological problem to an algebraic one, with spaces mapped to groups (or other algebraic objects) and continuous functions mapped to homomorphisms. We can generally conclude that if a topological existence problem has a solution, then so does the corresponding algebraic problem. Often simple algebraic arguments show that there is no solution to the algebraic, hence the topological, problem. </p>
+<p>The idea of algebraic topology is to map a (first order) topological problem to an algebraic one, with spaces mapped to groups (or other algebraic objects) and continuous functions mapped to homomorphisms. We can generally conclude that if a topological existence problem has a solution, then so does the corresponding algebraic problem. </p>
+
+<p>Often simple algebraic arguments show that there is no solution to the algebraic, hence the topological, problem. For instance, if two spaces are homeomorphic, then their associated groups are isomorphic - and hence if we obtain different groups we can conclude that the given spaces are not homeomorphic.</p>
 
 ]]></content>
   </entry>
