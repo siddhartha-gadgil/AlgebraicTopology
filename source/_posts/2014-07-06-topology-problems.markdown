@@ -49,4 +49,4 @@ The idea of algebraic topology is to map a (first order) topological problem to 
 Often simple algebraic arguments show that there is no solution to the algebraic, hence the topological, problem. For instance, if two spaces are homeomorphic, then their associated groups are isomorphic - and hence if we obtain different groups we can conclude that the given spaces are not homeomorphic.
 
 
-
+check change
