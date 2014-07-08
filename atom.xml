@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Algebraic Topology]]></title>
+  <link href="http://siddhartha-gadgil.github.io/AlgebraicTopology/atom.xml" rel="self"/>
+  <link href="http://siddhartha-gadgil.github.io/AlgebraicTopology/"/>
+  <updated>2014-07-08T08:42:43+05:30</updated>
+  <id>http://siddhartha-gadgil.github.io/AlgebraicTopology/</id>
+  <author>
+    <name><![CDATA[Siddhartha Gadgil]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Topological Problems]]></title>
+    <link href="http://siddhartha-gadgil.github.io/AlgebraicTopology/blog/2014/07/06/topology-problems/"/>
+    <updated>2014-07-06T16:22:14+05:30</updated>
+    <id>http://siddhartha-gadgil.github.io/AlgebraicTopology/blog/2014/07/06/topology-problems</id>
+    <content type="html"><![CDATA[<p>We begin with a typical topology problem (or rather, collection of problems).</p>
+
+<h3 id="extension-problems">Extension problems:</h3>
+<p>Assume we are given topological spaces $X$ and $Y$, a subspace $A\subset X$ and a continuous function $f: A\to Y$. Is there an extension of $f$ to $F: X\to Y$, i.e.,  if $i:A\to X$ is the inclusion function, is there a function $F: X\to Y$ so that $f = F\circ i$?</p>
+
+<p>Two specific instances of this:</p>
+
+<ol>
+  <li>
+    <p>$X = [-1,1]$, $A = \{-1,1\}$, $Y =\mathbb{R}$, $f: A\to Y$ is given by $f(x)= x$, for $x=-1,1$.</p>
+  </li>
+  <li>
+    <p>$X = [-1,1]$, $A = \{-1,1\}$, $Y =\mathbb{R} \setminus {0}$, $f: A\to Y$ is given by $f(x)= x$, for $x=-1,1$.</p>
+  </li>
+</ol>
+
+<p>It is not hard to see that the first problem has a positive solution and the second a negative one - in the first case we use a convex function, while the second follows using the fact that the image of a connected set is connected. We shall return to general methods after considering some more problems.</p>
+
+<p>We next describe some features of the extension problem that holds for many topological problems (we use a term from logic for this that can be safely ignored).</p>
+
+<h3 id="first-order-topological-problems">First order topological problems:</h3>
+
+<ul>
+  <li>These are formulated in terms of <em>topological spaces</em> and <em>continuous functions</em> (which we call <em>maps</em>) : both the data and unknowns are in terms of these. </li>
+  <li>The typical conditions are equalities between various compositions of functions.</li>
+  <li>Conditions may also be in terms of topological properties of the spaces.</li>
+</ul>
+
+<h2 id="more-topological-problems">More topological problems</h2>
+
+<h3 id="homeomorphisms-problem">Homeomorphisms problem:</h3>
+<p>Given spaces $X$ and $Y$, are there continuous functions $f: X\to Y$ and $g: Y \to X$ with compositions the identities on $X$ and $Y$?</p>
+
+<h3 id="lifting-problem">Lifting problem</h3>
+<p>Given spaces $D$, $X$ and $Y$ and maps $p: Y\to X$ and $f: D\to X$, is there a function $F: D \to Y$ with $f = p\circ F$?</p>
+
+<h2 id="solving-topological-problems">Solving topological problems</h2>
+
+<p>As we can already see in the above examples of extension problems,  showing existence and non-existence involve very different methods. Existence is typical based on constructions, generally using geometry and point-set topology. </p>
+
+<p>On the other hand, the above non-existence result could be done using point-set topology because of the special nature of the spaces - with one of them disconnected. To generalize this, we view connectivity as the $0$-dimensional case of <em>algebraic topology</em>.</p>
+
+<h3 id="what-is-algebraic-topology">What is algebraic topology?</h3>
+
+<p>The idea of algebraic topology is to map a (first order) topological problem to an algebraic one, with spaces mapped to groups (or other algebraic objects) and continuous functions mapped to homomorphisms. We can generally conclude that if a topological existence problem has a solution, then so does the corresponding algebraic problem. Often simple algebraic arguments show that there is no solution to the algebraic, hence the topological, problem. </p>
+
+]]></content>
+  </entry>
+  
+</feed>
