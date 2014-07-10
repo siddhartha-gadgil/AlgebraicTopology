@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://siddhartha-gadgil.github.io/
+url: http://math.iisc.ernet.in/~gadgil/
 title: Algebraic Topology 
 subtitle: Department of Mathematics, Indian Institute of Science, Aug-Dec 2014.
 author: Siddhartha Gadgil
@@ -26,10 +26,10 @@ email:
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /AlgebraicTopology
+root: /~gadgil/AlgebraicTopology
 permalink: /blog/:year/:month/:day/:title/
 source: source
-destination: public/
+destination: public/AlgebraicTopology
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
