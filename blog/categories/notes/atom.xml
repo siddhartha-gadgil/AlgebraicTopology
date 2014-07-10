@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Notes | Algebraic Topology]]></title>
   <link href="http://siddhartha-gadgil.github.io//blog/categories/notes/atom.xml" rel="self"/>
   <link href="http://siddhartha-gadgil.github.io//"/>
-  <updated>2014-07-08T11:40:15+05:30</updated>
+  <updated>2014-07-10T11:13:37+05:30</updated>
   <id>http://siddhartha-gadgil.github.io//</id>
   <author>
     <name><![CDATA[Siddhartha Gadgil]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Fundamental Groupoid]]></title>
+    <link href="http://siddhartha-gadgil.github.io//blog/2014/07/09/fundamental-groupoid/"/>
+    <updated>2014-07-09T11:23:15+05:30</updated>
+    <id>http://siddhartha-gadgil.github.io//blog/2014/07/09/fundamental-groupoid</id>
+    <content type="html"><![CDATA[<p>As mentioned earlier, the in algebraic topology we associated to spaces algerbaic objects. The first half of this course will be focussed on one such - the <em>fundamental group</em>. </p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Topological Problems]]></title>

@@ -9,8 +9,7 @@
   <meta name="author" content="Siddhartha Gadgil">
 
   
-  <meta name="description" content="We begin with a typical topology problem (or rather, collection of problems). Extension problems:
-Assume we are given topological spaces $X$ and $Y &hellip;">
+  <meta name="description" content="For sets $X$ and $Y$, let $X\to Y$ denote the set of functions from $X$ to $Y$. It is clear that, for a topological space $X$ there is a bijection &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -82,6 +81,95 @@ MathJax.Hub.Config({
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/AlgebraicTopology/blog/2014/07/10/assignment-homotopy-as-path-of-paths/">Assignment: Homotopy as Path of Paths</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-07-10T10:39:38+05:30" pubdate data-updated="true">Jul 10<sup>th</sup>, 2014</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>For sets $X$ and $Y$, let $X\to Y$ denote the set of functions from $X$ to $Y$. It is clear that, for a topological space $X$ there is a bijection between $([0,1]\times [0,1] \to X$ and $[0,1] \to ([0,1] \to X)$ given by associating to $H: [0,1]\times [0,1] \to X$ the function $s\mapsto (t\mapsto H(s,t))$. In this assignment, we shall see that, if we use the appropriate topology on paths in a space $X$, i.e., maps from $[0,1]$ to $X$, this is in fact a bijection between homotopies and paths of paths. </p>
+
+<p>Given topological spaces $X$ and $Y$, the <em>compact open</em> topology on the set $C(C, Y)$ of continuous functions from $X$ to $Y$ is the topology with sub-base constructed as follows. For $K\subset X$ compact and $U\subset Y$ open, we define $V(K, U)$ to be the set of continuous functions $f: X\to Y$ with $f(K)\subset Y$. The sets $V(K, U)$ form a sub-base for the compact-open topology.</p>
+
+<p>Assume henceforth that, for spaces $X$ and $Y$, $C(X, y)$ has the compact-open topology.</p>
+
+<ol>
+  <li>
+    <p>Assume that $X$ is a compact topological space and $Y$ is a metric space. Let $f_n: X\to Y$ be a sequence of maps and $f: X\to Y$ be a map. Show that the sequence $f_n$ converges to $f$ in the compact open topology if and only if it converges uniformly to $f$.</p>
+  </li>
+  <li>
+    <p>Let $X$ be a topological space. Show that a function $H: [0,1]\times [0,1] \to X$ is continuous if and only if</p>
+    <ul>
+      <li>for each $s\in [0,1]$, $f_s: t\mapsto H(s, t)$ is continuous.</li>
+      <li>the function $s\maps to f_s$ is a continuous function from $[0,1]$ to $C([0,1], X)$ with the compact open topology.</li>
+    </ul>
+  </li>
+</ol>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/AlgebraicTopology/blog/2014/07/09/fundamental-groupoid/">Fundamental Groupoid</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-07-09T11:23:15+05:30" pubdate data-updated="true">Jul 9<sup>th</sup>, 2014</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>As mentioned earlier, the in algebraic topology we associated to spaces algerbaic objects. The first half of this course will be focussed on one such - the <em>fundamental group</em>. </p>
+</div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -178,6 +266,14 @@ MathJax.Hub.Config({
     <section>
   <h1>Recent Posts</h1>
   <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/AlgebraicTopology/blog/2014/07/10/assignment-homotopy-as-path-of-paths/">Assignment: Homotopy as Path of Paths</a>
+      </li>
+    
+      <li class="post">
+        <a href="/AlgebraicTopology/blog/2014/07/09/fundamental-groupoid/">Fundamental Groupoid</a>
+      </li>
     
       <li class="post">
         <a href="/AlgebraicTopology/blog/2014/07/06/topology-problems/">Topological Problems</a>
