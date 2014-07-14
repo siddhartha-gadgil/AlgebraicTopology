@@ -1,0 +1,2 @@
+rake generate
+scp -r public/AlgebraicTopology/ gadgil@math.iisc.ernet.in:public_html

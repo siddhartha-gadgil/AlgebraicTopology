@@ -4,7 +4,7 @@ title: "Assignment: Homotopy as path of paths"
 date: 2014-07-10 10:39:38 +0530
 comments: true
 categories: 
-- assignment
+- assignments
 ---
 
 For sets $X$ and $Y$, let $X\to Y$ denote the set of functions from $X$ to $Y$. It is clear that, for a topological space $X$ there is a bijection between $([0,1]\times [0,1] \to X$ and $[0,1] \to ([0,1] \to X)$ given by associating to $H: [0,1]\times [0,1] \to X$ the function $s\mapsto (t\mapsto H(s,t))$. In this assignment, we shall see that, if we use the appropriate topology on paths in a space $X$, i.e., maps from $[0,1]$ to $X$, this is in fact a bijection between homotopies and paths of paths. 
