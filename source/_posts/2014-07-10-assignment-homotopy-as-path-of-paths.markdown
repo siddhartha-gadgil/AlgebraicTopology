@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Assignment: Homotopy as path of paths"
+title: "Assignment 1: Homotopy as path of paths (due August 11, 2014)"
 date: 2014-07-10 10:39:38 +0530
 comments: true
 categories: 

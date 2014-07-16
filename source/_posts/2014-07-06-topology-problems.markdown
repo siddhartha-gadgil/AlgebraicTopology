@@ -3,7 +3,7 @@ layout: post
 title: "topological problems"
 date: 2014-07-06 16:22:14 +0530
 comments: true
-categories: 
+categories:
 - notes
 ---
 
@@ -24,7 +24,7 @@ We next describe some features of the extension problem that holds for many topo
 
 ### First order topological problems:
 
-* These are formulated in terms of _topological spaces_ and _continuous functions_ (which we call _maps_) : both the data and unknowns are in terms of these. 
+* These are formulated in terms of _topological spaces_ and _continuous functions_ (which we call _maps_) : both the data and unknowns are in terms of these.
 * The typical conditions are equalities between various compositions of functions.
 * Conditions may also be in terms of topological properties of the spaces.
 
@@ -38,15 +38,12 @@ Given spaces $D$, $X$ and $Y$ and maps $p: Y\to X$ and $f: D\to X$, is there a f
 
 ## Solving topological problems
 
-As we can already see in the above examples of extension problems,  showing existence and non-existence involve very different methods. Existence is typical based on constructions, generally using geometry and point-set topology. 
+As we can already see in the above examples of extension problems,  showing existence and non-existence involve very different methods. Existence is typical based on constructions, generally using geometry and point-set topology.
 
 On the other hand, the above non-existence result could be done using point-set topology because of the special nature of the spaces - with one of them disconnected. To generalize this, we view connectivity as the $0$-dimensional case of _algebraic topology_.
 
 ### What is algebraic topology?
 
-The idea of algebraic topology is to map a (first order) topological problem to an algebraic one, with spaces mapped to groups (or other algebraic objects) and continuous functions mapped to homomorphisms. We can generally conclude that if a topological existence problem has a solution, then so does the corresponding algebraic problem. 
+The idea of algebraic topology is to map a (first order) topological problem to an algebraic one, with spaces mapped to groups (or other algebraic objects) and continuous functions mapped to homomorphisms. We can generally conclude that if a topological existence problem has a solution, then so does the corresponding algebraic problem.
 
 Often simple algebraic arguments show that there is no solution to the algebraic, hence the topological, problem. For instance, if two spaces are homeomorphic, then their associated groups are isomorphic - and hence if we obtain different groups we can conclude that the given spaces are not homeomorphic.
-
-
-check change
