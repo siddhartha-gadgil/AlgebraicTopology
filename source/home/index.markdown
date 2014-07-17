@@ -8,12 +8,20 @@ footer: true
 
 
 
-## Timings and Venue: 
+## Timings and Venue:
 
 Venue: LH-V (top floor), Department of Mathematics.
 Lecture times: Mon, Wed, Fri, 9:00 a.m - 10:30 a.m.
 First Meeting: Fri, August 2, 2014, 9:00 a.m. (in LH-III).
 Tutorial/Quiz times: to be announced.  
+
+## Instructor and Tutor
+
+**Instructor:** Siddhartha Gadgil
+
+__e-mail:__ _siddhartha DOT gadgil At gmail DOT com_
+
+__Tutor:__ Arpan Kabiraj
 
 ## Syllabus:
 
@@ -47,6 +55,3 @@ Spanier, E. H., Algebraic Topology, tata McGraw-Hill, 1966
 A previous version of the course (with related but **different** content) was taught with a virtual whiteboard (using a Tablet PC). The whiteboards for [Fundamental groups](../IntroAlgTop.pdf) and [Homology](../homology.pdf) are posted here in PDF format.
 
 Note:  The whiteboard files are in Landscape mode.  Please ensure that the setting is in this mode when printing and rotate while viewing.
-
-
-

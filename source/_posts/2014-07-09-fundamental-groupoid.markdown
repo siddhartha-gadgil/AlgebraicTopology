@@ -33,3 +33,7 @@ Furthermore, if $e_a$ denotes the constant path at $a$, then if $\alpha$ is a pa
 ### Fundamental group
 
 Now pick a basepoint $x\in X$. We define the fundamental group of $X$ with basepoint $x$ to be $\pi_1(X, x)= \pi(X; x, x)$. It is straightforward to see that the groupoid structure on $\pi(X)$ makes $\pi_1(X, x)$ into a group.
+
+### Change of basepoint
+
+Suppose we choose a different basepoint $x'$ for the space $X$, then if there is a path $\alpha$ from $x$ to $x'$, we see that the $\pi_(X, x)$ and $\pi_1(X, x')$ are isomorphic. Namely, we use the groupoid multiplication to construct a function $ \beta\mapsto\alpha * \beta * \bar\alpha$ from $\pi_1(X, x')$ to $\pi_1(X, x)$. Replacing $\alpha$ by $\bar\alpha$ gives a function in the opposite direction. Finally the groupoid properties show that these are inverses of each other.
