@@ -11,9 +11,11 @@ footer: true
 ## Timings and Venue:
 
 Venue: LH-V (top floor), Department of Mathematics.
-Lecture times: Mon, Wed, Fri, 9:00 a.m - 10:30 a.m.
-First Meeting: Fri, August 2, 2014, 9:00 a.m. (in LH-III).
+
+Lecture times: Mon, Wed, Fri, 9:00 a.m - 10:00 a.m. (likely to change)
+
 Tutorial/Quiz times: to be announced.  
+
 
 ## Instructor and Tutor
 
@@ -52,6 +54,7 @@ Spanier, E. H., Algebraic Topology, tata McGraw-Hill, 1966
 
 ## Old Course Notes:
 
-A previous version of the course (with related but **different** content) was taught with a virtual whiteboard (using a Tablet PC). The whiteboards for [Fundamental groups](../IntroAlgTop.pdf) and [Homology](../homology.pdf) are posted here in PDF format.
+A previous version of the course (with related but **different** content) was taught with a virtual whiteboard (using a Tablet PC).
+The whiteboards for [Fundamental groups](../IntroAlgTop.pdf) and [Homology](../homology.pdf) are posted here in PDF format.
 
 Note:  The whiteboard files are in Landscape mode.  Please ensure that the setting is in this mode when printing and rotate while viewing.

@@ -7,9 +7,9 @@ categories:
 - notes
 ---
 
-As mentioned earlier, the in algebraic topology we associated to spaces algerbaic objects. The first half of this course will be focused on one such - the _fundamental group_.
+As mentioned earlier, in algebraic topology we associated to spaces algebraic objects. The first half of this course will be focused on one such - the _fundamental group_.
 
-We shall first construct the so called _fundamental groupoid_, so that lemmas can be proved in the generality we need. A groupoid is like a group, except that the not all pairs of elements can be multiplied. A typical example is the set of invertible linear maps between subspaces of a vector space $V$, with composition as the multiplication - this is defined in the case of the codomain of the second map coinciding with the domain of the first. There are identities corresponding to each subspace, and each element is invertible in an appropriate sense.
+We shall first construct the so called _fundamental groupoid_, so that lemmas can be proved in the generality we need. A groupoid is like a group, except that not all pairs of elements can be multiplied. A typical example is the set of invertible linear maps between subspaces of a vector space $V$, with composition as the multiplication - this is defined in the case of the codomain of the second map coinciding with the domain of the first. There are identities corresponding to each subspace, and each element is invertible in an appropriate sense.
 
 The construction of the fundamental groupoid is in two steps. We first define a multiplication on the space of paths of a space. We then define an equivalence relation on this space, so that the multiplication makes the quotient into a groupoid.
 
@@ -36,4 +36,4 @@ Now pick a basepoint $x\in X$. We define the fundamental group of $X$ with basep
 
 ### Change of basepoint
 
-Suppose we choose a different basepoint $x'$ for the space $X$, then if there is a path $\alpha$ from $x$ to $x'$, we see that the $\pi_(X, x)$ and $\pi_1(X, x')$ are isomorphic. Namely, we use the groupoid multiplication to construct a function $ \beta\mapsto\alpha * \beta * \bar\alpha$ from $\pi_1(X, x')$ to $\pi_1(X, x)$. Replacing $\alpha$ by $\bar\alpha$ gives a function in the opposite direction. Finally the groupoid properties show that these are inverses of each other.
+Suppose we choose a different basepoint $x'$ for the space $X$, then if there is a path $\alpha$ from $x$ to $x'$, we see that the $\pi_1(X, x)$ and $\pi_1(X, x')$ are isomorphic. Namely, we use the groupoid multiplication to construct a function $ \beta\mapsto\alpha * \beta * \bar\alpha$ from $\pi_1(X, x')$ to $\pi_1(X, x)$. Replacing $\alpha$ by $\bar\alpha$ gives a function in the opposite direction. Finally the groupoid properties show that these are inverses of each other.
