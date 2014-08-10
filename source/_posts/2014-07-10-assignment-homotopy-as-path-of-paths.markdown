@@ -15,7 +15,7 @@ maps from $[0,1]$ to $X$, this is in fact a bijection between homotopies and pat
 
 Given topological spaces $X$ and $Y$, the _compact open_ topology on the set $C(X, Y)$ of continuous functions from $X$ to $Y$
 is the topology with sub-base constructed as follows. For $K\subset X$ compact and $U\subset Y$ open, we define $V(K, U)$
-to be the set of continuous functions $f: X\to Y$ with $f(K)\subset Y$. The sets $V(K, U)$ form a sub-base for the compact-open topology.
+to be the set of continuous functions $f: X\to Y$ with $f(K)\subset U$. The sets $V(K, U)$ form a sub-base for the compact-open topology.
 
 Assume henceforth that, for spaces $X$ and $Y$, $C(X, Y)$ has the compact-open topology.
 
