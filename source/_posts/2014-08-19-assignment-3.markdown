@@ -11,7 +11,7 @@ categories:
 
 2. Let $B$ be an open ball in $\mathbb{R^n}$. Show that any path $\alpha$ in $B$ is path-homotopic in $B$ to a straight line path $\beta$, i.e, with $\beta: s \mapsto x + s\cdot y$, for some points $x, y\in\mathbb{R}^n$.
 
-3. Let $U\subset \mathbb{R^n}$ be an open set and $\alpha:[0, 1]\to U$ be a path. Show that there is an integer $m>0$ and a collection of open balls $B\_i$, $0\leq i<m$, with $B\_i\subset U$, so that for $i=0, 1,\dots, m-1$, $\alpha([i/m, (i+1)/m])\subset B\_i$.
+3. Let $U\subset \mathbb{R^n}$ be an open set and $\alpha:[0, 1]\to U$ be a path. Show that there is an integer $m>0$ and a collection of open balls $B\_i$, $0\leq i<m$, with $B\_i\subset U$, so that for $k=0, 1,\dots, m-1$, $\alpha([k/m, (k+1)/m])\subset B\_i$.
 
 4. Let $\alpha:[0,1]\to X$ be a path in a topological space $X$ and let $m>0$ be an integer. For $0\leq i < m$, define a path $\alpha_i: [0, 1]\to X$ by
 $$\alpha_i(s) =  \alpha(i/m+s/m).$$
