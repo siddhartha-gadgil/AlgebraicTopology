@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Assignment 4 (due Septembder 15, 2014)"
+title: "Assignment 4 (due September 15, 2014)"
 date: 2014-09-07 15:49:58 +0530
 comments: true
 categories:
