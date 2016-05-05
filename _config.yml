@@ -2,8 +2,8 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://math.iisc.ernet.in/~gadgil/
-title: Algebraic Topology 
+url: http://math.iisc.ernet.in/~gadgil/AlgebraicTopology
+title: Algebraic Topology
 subtitle: Department of Mathematics, Indian Institute of Science, Aug-Dec 2014.
 author: Siddhartha Gadgil
 simple_search: https://www.google.com/search
@@ -29,7 +29,7 @@ email:
 root: /~gadgil/AlgebraicTopology
 permalink: /blog/:year/:month/:day/:title/
 source: source
-destination: public/AlgebraicTopology
+destination: public/~gadgil/AlgebraicTopology
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
