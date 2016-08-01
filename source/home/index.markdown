@@ -12,9 +12,7 @@ footer: true
 
 Venue: LH-V (top floor), Department of Mathematics.
 
-Lecture times: Mon, Wed: 3:30 - 4:30 p.m., Fri: 9:00 - 10:00 a.m.
-
-Tutorial timing: Wed 6:30 - 7:30 p.m., LH-II (basement), Department of Mathematics.
+Lecture times: Mon, Wed, Fri: 9:00 - 10:00 a.m.
 
 
 ## Instructor and Tutor
