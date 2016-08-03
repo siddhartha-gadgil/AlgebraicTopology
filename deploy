@@ -1,1 +1,1 @@
-rsync -av public/~gadgil/ math.iisc.ernet.in:/home/gadgil/public_html
+rsync -av public/~gadgil/ math.iisc.ac.in:/home/gadgil/public_html
