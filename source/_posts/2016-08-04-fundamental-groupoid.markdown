@@ -15,18 +15,18 @@ The construction of the fundamental groupoid is in two steps. We first define a 
 
 ### Paths and Multiplication
 
-Fix a topological space $X$. For points $a,b\in X$, let $P(X; a, b)$ be the set of paths from $a$ to $b$, i.e.,
-$$P(X; a,b) = \{\alpha: [0,1] \to X : \text{$\alpha$ continuous}, \alpha(0)=a, \alpha(1) = b\}.$$
+Fix a topological space $X$. For points $a,b\in X$, let $\Omega(X; a, b)$ be the set of paths from $a$ to $b$, i.e.,
+$$\Omega(X; a,b) = \{\alpha: [0,1] \to X : \text{$\alpha$ continuous}, \alpha(0)=a, \alpha(1) = b\}.$$
 
-For $a, b, c\in X$, we have a multiplication from $P(a, b)\times P(b,c)\to P(a,c)$ which corresponds to a path from $a$ to $b$ followed by a path from $b$ to $c$ (precise formulas will be given in the lectures).
+For $a, b, c\in X$, we have a multiplication from $\Omega(a, b)\times \Omega(b,c)\to \Omega(a,c)$ which corresponds to a path from $a$ to $b$ followed by a path from $b$ to $c$ (precise formulas will be given in the lectures).
 
-Let $P(X)$ be the union of the sets $P(X; a,b)$. We then get a partially defined product $\*$ on this from the above products. Note that this is not associative and there are no identity elements or inverses.
+Let $\Omega(X)$ be the union of the sets $\Omega(X; a,b)$. We then get a partially defined product $\*$ on this from the above products. Note that this is not associative and there are no identity elements or inverses.
 
 ### Homotopy between paths and the Groupoid structure
 
 A crucial idea is to regard paths as equivalent if one can be deformed to the other fixing end points. This gives an equivalence relation, where the deformation is called a _path homotopy_, or simply a homotopy. Formally a path homotopy is a map $H : [0,1] \times [0,1] \to X$. For paths $\alpha$ and $\beta$, we denote path homotopy by $\alpha\sim \beta$.
 
-Let $\pi(X)$ denote the quotient of $P(X)$ by the equivalence relation given by path homotopy, with $\pi(X, a,b)$ as obvious. Then the product on $P(X)$ induces one on $\pi(X)$. Moreover, we see that this product is associative.
+Let $\pi(X)$ denote the quotient of $\Omega(X)$ by the equivalence relation given by path homotopy, with $\pi(X, a,b)$ as obvious. Then the product on $\Omega(X)$ induces one on $\pi(X)$. Moreover, we see that this product is associative.
 
 Furthermore, if $e_a$ denotes the constant path at $a$, then if $\alpha$ is a path from $a$ to $b$, we have $e_a * \alpha \sim \alpha$ and $\alpha * e_b \sim \alpha$. Finally, if $\bar\alpha : t \mapsto \alpha(1-t)$, then $\alpha * \bar\alpha \sim e_a$ and $\bar\alpha * \alpha \sim e_a$. This means that $\*$ makes $\pi(X)$ into a groupoid.
 
