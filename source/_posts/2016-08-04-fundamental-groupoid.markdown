@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fundamental groupoid"
-date: 2014-07-09 11:23:15 +0530
+date: 2016-08-04 11:23:15 +0530
 comments: true
 categories:
 - notes
@@ -20,7 +20,7 @@ $$P(X; a,b) = \{\alpha: [0,1] \to X : \text{$\alpha$ continuous}, \alpha(0)=a, \
 
 For $a, b, c\in X$, we have a multiplication from $P(a, b)\times P(b,c)\to P(a,c)$ which corresponds to a path from $a$ to $b$ followed by a path from $b$ to $c$ (precise formulas will be given in the lectures).
 
-Let $P(X)$ be the union of the sets $P(X; a,b)$. We then get a partially defined product $*$ on this from the above products. Note that this is not associative and there are no identity elements or inverses.
+Let $P(X)$ be the union of the sets $P(X; a,b)$. We then get a partially defined product $\*$ on this from the above products. Note that this is not associative and there are no identity elements or inverses.
 
 ### Homotopy between paths and the Groupoid structure
 
@@ -28,7 +28,7 @@ A crucial idea is to regard paths as equivalent if one can be deformed to the ot
 
 Let $\pi(X)$ denote the quotient of $P(X)$ by the equivalence relation given by path homotopy, with $\pi(X, a,b)$ as obvious. Then the product on $P(X)$ induces one on $\pi(X)$. Moreover, we see that this product is associative.
 
-Furthermore, if $e_a$ denotes the constant path at $a$, then if $\alpha$ is a path from $a$ to $b$, we have $e_a * \alpha \sim \alpha$ and $\alpha * e_b \sim \alpha$. Finally, if $\bar\alpha : t \mapsto \alpha(1-t)$, then $\alpha * \bar\alpha \sim e_a$ and $\bar\alpha * \alpha \sim e_a$. This means that $*$ makes $\pi(X)$ into a groupoid.
+Furthermore, if $e_a$ denotes the constant path at $a$, then if $\alpha$ is a path from $a$ to $b$, we have $e_a * \alpha \sim \alpha$ and $\alpha * e_b \sim \alpha$. Finally, if $\bar\alpha : t \mapsto \alpha(1-t)$, then $\alpha * \bar\alpha \sim e_a$ and $\bar\alpha * \alpha \sim e_a$. This means that $\*$ makes $\pi(X)$ into a groupoid.
 
 ### Fundamental group
 
