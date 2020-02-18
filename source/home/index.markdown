@@ -6,8 +6,6 @@ sharing: true
 footer: true
 ---
 
-
-
 ## Timings and Venue:
 
 Venue: LH-V (top floor), Department of Mathematics.
